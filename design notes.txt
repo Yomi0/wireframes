@@ -1,0 +1,38 @@
+﻿Page 1 
+
+	(from the top)
+	blank (or nav?)
+	none
+	should be inset, the border
+
+	headshots 
+	on hover darken, show name
+	images are black and white
+	on hover, should be spotted...
+
+	experiment with flexbox
+	background is black
+	text is white, and a very particular red
+
+Page 2
+	(from the top)
+	Should scale on a mobile phone, it should probably look like (arrow pointing down to the drawn portrait phone)
+	screen should fill avaiable space
+	svg?
+	
+	(portait phone)
+	title thing
+
+	(landscape phone)
+	title thing
+	in landscape experiment with one larger vs 2 medium (cicurlar headshot photos.)
+
+	phones >> iPhones
+	
+	the mobile experience 
+	show their names at the top of their photos
+	should be the same on a tablet
+	
+	django for managing content -> django-cms, for video posts, blog? 
+	if the titlebar does become a nav bar...links should transition from one color to another. 
+	should be gray when selected/active, keep it current...(see the relevant ALA article, only apply it to python/django)
