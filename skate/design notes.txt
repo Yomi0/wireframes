@@ -28,6 +28,7 @@ Page 2
 	in landscape experiment with one larger vs 2 medium (cicurlar headshot photos.)
 
 	phones >> iPhones
+	font should be thick, bold, and small caps
 	
 	the mobile experience 
 	show their names at the top of their photos
