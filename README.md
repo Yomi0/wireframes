@@ -13,4 +13,4 @@ It's meant to be a wireframe for a website. Just a personal project.
 random stuff
 ============
 
-As the title of the photo says. random stuff.
+As the title of the folder says. random stuff.
