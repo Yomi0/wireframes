@@ -37,3 +37,6 @@ Page 2
 	django for managing content -> django-cms, for video posts, blog? 
 	if the titlebar does become a nav bar...links should transition from one color to another. 
 	should be gray when selected/active, keep it current...(see the relevant ALA article, only apply it to python/django)
+
+	additional notes : 
+	the circular images should probably be around 200px in size, anything larger (like 500px) is kind of weird. Maybe around either 200px or 350px might be good enough. 200px looks okay, but then there's all this space not being used...so you'd need to find a good place to start at. 200px might be good for mobiles...
